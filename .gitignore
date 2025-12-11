@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Данные и модели (опционально)
+*.csv
+*.pkl
+*.h5
+*.joblib
